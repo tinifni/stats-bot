@@ -1,0 +1,22 @@
+{
+  "name": "stats-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord-command-parser": "^1.2.1",
+    "discord.js": "github:hydrabolt/discord.js",
+    "discord.js-redis": "github:spec-tacles/discord.js-redis",
+    "pg": "^7.8.0",
+    "pg-hstore": "^2.3.2",
+    "ramda": "^0.26.1",
+    "sequelize": "^4.42.0",
+    "sequelize-cli": "^5.4.0"
+  }
+}
